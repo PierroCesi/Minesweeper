@@ -16,8 +16,8 @@ private:
 public:
     const int PLAYABLE_WINDOW_X = BOARD_X * 80;
     const int PLAYABLE_WINDOW_Y = BOARD_Y * 80;
-    static const int BOARD_X = 32;
-    static const int BOARD_Y = 16;
+    static const int BOARD_X = 16;
+    static const int BOARD_Y = 8;
     int m_TileSize;
 
     Map();

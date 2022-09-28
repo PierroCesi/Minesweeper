@@ -49,3 +49,14 @@
 7	4201	1664365689568970660	CMakeFiles/minesweeper.dir/Controller/MainController.cpp.o	39240bda0802bbd
 7	4277	1664365689644832299	CMakeFiles/minesweeper.dir/View/View.cpp.o	4ee7605752a86dbb
 4278	4411	1664365689786560795	minesweeper	b602983fb3889fa1
+4	1369	1664366489431784862	CMakeFiles/minesweeper.dir/Controller/MainController.cpp.o	39240bda0802bbd
+4	1369	1664366489433316699	CMakeFiles/minesweeper.dir/View/View.cpp.o	4ee7605752a86dbb
+1370	1458	1664366489536897157	minesweeper	b602983fb3889fa1
+10	2898	1664366691052690680	CMakeFiles/minesweeper.dir/Model/Map.cpp.o	2f15dfc889a180de
+13	3522	1664366691633943931	CMakeFiles/minesweeper.dir/Model/Scoreboard.cpp.o	b3fdd6b03adf53e8
+7	3764	1664366691916567688	CMakeFiles/minesweeper.dir/main.cpp.o	e3480143cf1dce19
+9	4197	1664366692345120112	CMakeFiles/minesweeper.dir/View/View.cpp.o	4ee7605752a86dbb
+12	4218	1664366692371760324	CMakeFiles/minesweeper.dir/Controller/MainController.cpp.o	39240bda0802bbd
+4218	4350	1664366692511650456	minesweeper	b602983fb3889fa1
+6	1898	1664366723949261956	CMakeFiles/minesweeper.dir/View/View.cpp.o	4ee7605752a86dbb
+1899	2031	1664366724096549726	minesweeper	b602983fb3889fa1

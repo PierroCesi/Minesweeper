@@ -88,7 +88,7 @@ void View::renderGrid() {
             m_TileSprite.setPosition(sf::Vector2f(tile2.m_PixelX, tile2.m_PixelY));
 
             m_Window->draw(m_TileSprite);
-            m_Window->draw(text);
+            //m_Window->draw(text);
         }
     }
 }
@@ -124,7 +124,7 @@ void View::renderScoreBoard() {
     }
     m_ButtonSprite.setPosition(sf::Vector2f(m_Scoreboard->getButtonX(), m_Scoreboard->getButtonY()));
 
-    //m_Window->draw(m_ButtonSprite);
+    m_Window->draw(m_ButtonSprite);
 }
 
 Scoreboard *View::getMScoreboard() const {
